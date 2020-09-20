@@ -2,7 +2,8 @@
 
 ## Intro
 
-An easy to use **Isolated** USB to Serial/RS232/RS485 Converter with ESD protected inputs which can be mounted on a 72mm DIN rail in an industrial environment.
+- An easy to use **Isolated** USB to Serial/RS232/RS485 Converter with **ESD** protected inputs 
+- Can be easily mounted on a 72mm DIN rail in an industrial environment.
 
 The device can work as a
 
