@@ -1,6 +1,17 @@
 # Isolated USB to Serial/RS232/RS485 Converter
 
-------------------------------------------------------------------------------------------
+## Intro
+
+An easy to use isolated USB to Serial/RS232/RS485 Converter which can be mounted on a 72mm DIN rail in an industrial environment.
+
+The device can work as a
+
+- Isolated USB to Serial(TTL) Converter
+- Isolated USB to RS232 Converter
+- Isolated USB to RS485 Converter
+
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 ## Hardware
 
