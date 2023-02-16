@@ -29,7 +29,7 @@ The device can work as a
 ## Features
 
 - 72mm DIN rail mountable 
-
+- 
 
  
  
