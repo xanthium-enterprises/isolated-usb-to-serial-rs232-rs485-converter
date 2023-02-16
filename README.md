@@ -26,6 +26,16 @@ The device can work as a
 
 --------------------------------------------------------------------------------------------
 
+## Required Device Drivers
+
+The USB to RS485 converter uses the popular **FT232RL** chip from FTDI which is widely supported.The drivers can be easily downloaded from **FTDI website**.
+
+ - [Download FTDI Drivers for Windows](https://www.ftdichip.com/Drivers/VCP.htm)
+
+In Linux ,the drivers are already integrated into the kernel.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Features
 
 - 72mm DIN rail mountable 
